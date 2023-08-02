@@ -6,4 +6,4 @@ High Motivated and performance-driven full stack developer who recently graduate
 
 
 Portfolio website:
-https://www.sophieson.com/
+https://www.sophieson.dev/
